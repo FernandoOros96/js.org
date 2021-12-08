@@ -20,7 +20,7 @@ const search = window.location.search.slice(1, 20);
                 var el_ = document.createElement("div");
                 el_.id = "cad";
                 el_.classList.add('blocked');
-                el_.innerHTML = `<a href="https://namecheap.pxf.io/c/3149127/1184522/5618" target="_top" id="1184522"><img src="5618-1184522.png" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://namecheap.pxf.io/i/3149127/1184522/5618" style="position:absolute;visibility:hidden;" border="0" />`
+                el_.innerHTML = `<a href="https://namecheap_affiliate.js.org" target="_top" id="1184522" rel="nofollow noopener" target="_blank"><img src="5618-1184522.png" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://namecheap.pxf.io/i/3149127/1184522/5618" style="position:absolute;visibility:hidden;" border="0" />`
                 el.replaceWith(el_);
             }
         }
